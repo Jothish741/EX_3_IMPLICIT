@@ -1,5 +1,4 @@
 ## EXPERIMENT:03  Implement an application that uses Intent(Implicit) using Android Studio.
-Design an Android application with a text field and an "Open in Browser" button. On pressing the button, the app should fetch the URL from the text field and open it in a browser using an Implicit Intent.
 
 ## AIM:
 
@@ -26,13 +25,6 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
-```
-/*
-Program to print the text “Implicitintent”.
-Developed by: DEEPESH P
-Registeration Number :  212222220009
-*/
-```
 
 ## MainActivity.java:
 
